@@ -34,8 +34,7 @@
       "version": "1.16.x",
       "image": "intersourcesinc/kasm-ecm-image",
       "available_tags": [
-        "latest",
-        "1.16.0"
+        "latest"
       ]
 
     },
@@ -43,8 +42,7 @@
       "version": "1.17.x",
       "image": "intersourcesinc/kasm-ecm-image",
       "available_tags": [
-        "latest",
-        "1.17.0"
+        "latest"
       ]
     }
   ]

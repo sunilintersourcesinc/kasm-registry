@@ -4,10 +4,10 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
+    name: 'Intersourcesinc',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://sunilintersourcesinc.github.io',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
